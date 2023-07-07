@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vachek-hooves-weather/static/css/main.53eae310.css",
+    "main.js": "/Vachek-hooves-weather/static/js/main.b44625a5.js",
+    "static/media/Thunderstorm.jpg": "/Vachek-hooves-weather/static/media/Thunderstorm.cb7f24f0d93e29da229c.jpg",
+    "index.html": "/Vachek-hooves-weather/index.html",
+    "main.53eae310.css.map": "/Vachek-hooves-weather/static/css/main.53eae310.css.map",
+    "main.b44625a5.js.map": "/Vachek-hooves-weather/static/js/main.b44625a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53eae310.css",
+    "static/js/main.b44625a5.js"
+  ]
+}
